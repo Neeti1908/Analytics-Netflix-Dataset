@@ -6,7 +6,7 @@ The reposiory includes the following files.
 3. Final Project on Netflix Dataset - .SQL file with complete list of codes run for the exploration 
 4. Dataset used for the project. This consists of 3 CSV files: 
 5. Netflix Viewership Data - Netflix Announced Viewing Statistics, 
-6. netflix_titles, 
+6. Netflix_titles
 7. Subscribers_Data
 8. Insights gathered using MYSQL and then exported to Excel. This consists of the following files: 
 9. Movies for which time between release date and date of addition is greater than the avg
@@ -14,4 +14,5 @@ The reposiory includes the following files.
 11. Rating wise no. of TV shows and movies added on Netflix
 12. TV Shows for which time between release date and date of addition is greater than the avg
 13. Type of content added on Netflix-Tv Shows and Movies
+
 Note: The insights gathered have been visually represented in the project PPT as well. 
