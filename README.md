@@ -1,6 +1,6 @@
 # Analytics-Projects
 This repository is for my Exploratory Data Analysis Project on a Netflix dataset. The exploration is done by querying insights using MySQL. 
-The reposiory includes the following files. 
+The repository includes the following files: 
 1. Research Project on Netflix Data- Project PPT 
 2. Data Dictionary for Research Project on Netflix Data- PPT
 3. Final Project on Netflix Dataset - .SQL file with complete list of codes run for the exploration 
